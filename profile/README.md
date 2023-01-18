@@ -2,9 +2,9 @@
 ![Neovim version](https://img.shields.io/badge/Neovim-0.9.x-57A143?style=plastic&logo=neovim)
 
 # Crabby Lab
-_Last Updated: 14-Dec-2022 or more recently._
+_Last Updated: 18-Jan-2023 or more recently._
 
-- [compiler](https://rustup.rs/) version: `rustc 1.68.0-nightly (0f529f0f4 2022-12-13)`
-- [rust-analyzer](https://rust-analyzer.github.io/manual.html#nvim-lsp) version: `rust-analyzer (4596847a8 2022-12-12)`
+- [compiler](https://rustup.rs/) version: `rustc 1.68.0-nightly (3984bc583 2023-01-17)`
+- [rust-analyzer](https://rust-analyzer.github.io/manual.html#nvim-lsp) version: `rust-analyzer (3a7271336 2023-01-17)`
   
 🦀 🧪
